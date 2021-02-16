@@ -106,4 +106,3 @@ def play_game():
 
     update_pieces_and_colours(window, board)
     window.mainloop()
-
